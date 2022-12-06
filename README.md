@@ -14,4 +14,4 @@ Connection à la bdd PHP affichage des utilisateurs et du profil
 **Server:** MySQL
 
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](https://www.pngall.com/wp-content/uploads/2016/05/PHP-Logo-Free-Download-PNG.png)
