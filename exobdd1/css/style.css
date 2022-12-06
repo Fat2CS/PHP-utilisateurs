@@ -1,0 +1,74 @@
+header,
+footer {
+  background: rgb(240, 239, 252);
+  background: linear-gradient(
+    90deg,
+    rgba(240, 239, 252, 1) 44%,
+    rgba(255, 0, 121, 1) 91%
+  );
+  height: 20vh;
+  padding-top: 2rem;
+}
+main {
+  width: 100vw;
+}
+main ul {
+  display: flex;
+  /* justify-content: space-around; */
+  /* margin: 2rem; */
+}
+
+section {
+  width: 100vw;
+  overflow-y: hidden;
+  overflow-x: hidden;
+  margin-left: 2rem;
+  margin: 3rem 0 3rem 2rem;
+}
+li {
+  text-decoration: none;
+  list-style: none;
+  display: flex;
+}
+
+.acceuil {
+  display: flex;
+}
+#img img {
+  height: 35vh;
+  border-radius: 50%;
+}
+
+.acceuil a {
+  text-decoration: none;
+  margin-top: 2rem;
+}
+#profh3 h3 {
+  margin-top: 5rem;
+}
+#a a {
+  color: purple;
+  margin-right: 15rem;
+  margin-left: -5rem;
+}
+/* utilisateur */
+
+#top {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+section#presentation img {
+  height: 50vh;
+  margin-right: 3rem;
+  border-radius: 50%;
+}
+.description {
+  border-top: solid 2px purple;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+#name h2 {
+  color: blueviolet;
+  margin-right: 3rem;
+}
